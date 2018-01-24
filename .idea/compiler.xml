@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="service-client-01" />
+        <module name="service-client-02" />
+        <module name="service-consumer-01" />
+        <module name="service-consumer-02" />
+        <module name="service-consumer-hystrix" />
+        <module name="service-discovery" />
+        <module name="service-discovery-01" />
+        <module name="service-discovery-02" />
+        <module name="service-provider-01" />
+        <module name="service-provider-02" />
+        <module name="service-server-01" />
+        <module name="service-server-02" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="demo-cloud-05-ribbon-feign" target="1.7" />
+      <module name="service-client-01" target="1.7" />
+      <module name="service-client-02" target="1.7" />
+      <module name="service-consumer-01" target="1.7" />
+      <module name="service-consumer-02" target="1.7" />
+      <module name="service-consumer-hystrix" target="1.7" />
+      <module name="service-discovery" target="1.7" />
+      <module name="service-discovery-01" target="1.7" />
+      <module name="service-discovery-02" target="1.7" />
+      <module name="service-provider-01" target="1.7" />
+      <module name="service-provider-02" target="1.7" />
+      <module name="service-server-01" target="1.7" />
+      <module name="service-server-02" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
