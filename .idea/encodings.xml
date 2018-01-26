@@ -7,6 +7,7 @@
     <file url="file://$PROJECT_DIR$/service-consumer-hystrix" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/service-discovery-01" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/service-discovery-02" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/service-gateway-01" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/service-provider-01" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/service-provider-02" charset="UTF-8" />
   </component>

@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/service-consumer-hystrix/service-consumer-hystrix.iml" filepath="$PROJECT_DIR$/service-consumer-hystrix/service-consumer-hystrix.iml" />
       <module fileurl="file://$PROJECT_DIR$/service-discovery-01/service-discovery-01.iml" filepath="$PROJECT_DIR$/service-discovery-01/service-discovery-01.iml" />
       <module fileurl="file://$PROJECT_DIR$/service-discovery-02/service-discovery-02.iml" filepath="$PROJECT_DIR$/service-discovery-02/service-discovery-02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-gateway-01/service-gateway-01.iml" filepath="$PROJECT_DIR$/service-gateway-01/service-gateway-01.iml" />
       <module fileurl="file://$PROJECT_DIR$/service-provider-01/service-provider-01.iml" filepath="$PROJECT_DIR$/service-provider-01/service-provider-01.iml" />
       <module fileurl="file://$PROJECT_DIR$/service-provider-02/service-provider-02.iml" filepath="$PROJECT_DIR$/service-provider-02/service-provider-02.iml" />
     </modules>
