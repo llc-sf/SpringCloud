@@ -6,6 +6,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="common-project" />
+        <module name="data-spring-jpa" />
         <module name="service-client-01" />
         <module name="service-client-02" />
         <module name="service-consumer-01" />
@@ -28,6 +30,8 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="common-project" target="1.7" />
+      <module name="data-spring-jpa" target="1.7" />
       <module name="demo-cloud-05-ribbon-feign" target="1.6" />
       <module name="service-client-01" target="1.7" />
       <module name="service-client-02" target="1.7" />
