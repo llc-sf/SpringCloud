@@ -4,6 +4,15 @@ server:
 spring:
   application:
     name: Server
+  datasource:
+    platform: mysql
+    url: jdbc:mysql://127.0.0.1:3306/sanuser?characterEncoding=utf8
+    username: root
+    password: admin
+    driver-class-name: com.mysql.jdbc.Driver
+  jpa:
+    database: MySQL
+    show-sql: true
 
 eureka:
   instance:
@@ -16,3 +25,4 @@ eureka:
       enabled: true
     serviceUrl:
       defaultZone: http://127.0.0.1:1100/eureka/
+
