@@ -5,6 +5,15 @@ spring:
   application:
     name: Server
 
+
+
+
+
+
+
+
+
+
 eureka:
   instance:
     instance-id: ${spring.application.name}:${server.port}
