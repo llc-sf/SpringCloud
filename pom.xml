@@ -19,6 +19,7 @@
         <module>common-project</module>
         <module>data-moresource</module>
         <module>data-redis</module>
+        <module>data-mybatis</module>
     </modules>
 
     <properties>
