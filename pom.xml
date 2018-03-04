@@ -18,6 +18,7 @@
         <module>data-spring-jpa</module>
         <module>common-project</module>
         <module>data-moresource</module>
+        <module>data-redis</module>
     </modules>
 
     <properties>
