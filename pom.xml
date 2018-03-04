@@ -17,6 +17,7 @@
         <module>service-gateway-01</module>
         <module>data-spring-jpa</module>
         <module>common-project</module>
+        <module>data-moresource</module>
     </modules>
 
     <properties>
