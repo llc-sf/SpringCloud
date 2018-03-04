@@ -1,4 +1,4 @@
-package com.jadyer.demo;
+package com.jadyer.demo.controller;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

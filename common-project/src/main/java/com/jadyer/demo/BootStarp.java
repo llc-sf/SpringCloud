@@ -6,8 +6,8 @@ import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
 
 @EnableDiscoveryClient
 @SpringBootApplication
-public class ServiceProviderBootStarp2 {
+public class BootStarp {
     public static void main(String[] args) {
-        SpringApplication.run(ServiceProviderBootStarp2.class, args);
+        SpringApplication.run(BootStarp.class, args);
     }
 }
