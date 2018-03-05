@@ -22,6 +22,7 @@
         <module>data-mybatis</module>
         <module>data-transaction</module>
         <module>async-project</module>
+        <module>scheduled-project</module>
     </modules>
 
     <properties>
