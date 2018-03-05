@@ -21,6 +21,7 @@
         <module>data-redis</module>
         <module>data-mybatis</module>
         <module>data-transaction</module>
+        <module>async-project</module>
     </modules>
 
     <properties>
